@@ -1,0 +1,8 @@
+streamlit
+librosa
+numpy
+pandas
+joblib
+scikit-learn
+pyserial
+audio-recorder-streamlit
